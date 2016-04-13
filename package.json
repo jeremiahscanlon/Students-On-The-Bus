@@ -1,0 +1,22 @@
+{
+  "name": "students-on-the-bus",
+  "version": "1.0.0",
+  "description": "node.js app using Javascript constructors, requires, and exports",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiahscanlon/Students-On-The-Bus.git"
+  },
+  "author": "Jeremiah Scanlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiahscanlon/Students-On-The-Bus/issues"
+  },
+  "homepage": "https://github.com/jeremiahscanlon/Students-On-The-Bus#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
