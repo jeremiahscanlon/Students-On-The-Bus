@@ -32,11 +32,11 @@ node main.js
 
 - You can run *node student.js* over and over again to add more students
 
-- The student objects are stored in 'allStudents.txt'
+- The student objects are stored in *allStudents.txt*
 
-- There are 20 student examples saved in 'allStudents.txt' now. To start your own list you can delete the contents of this file on your install.
+- There are 20 student examples saved in *allStudents.txt* now. To start your own list you can delete the contents of this file on your install
 
-- In order for the student's catchphrase to show when running *main.js* they must have a gpa > 2 and detentions < 10.
+- In order for the student's catchphrase to show when running *main.js* they must have a gpa > 2 and detentions < 10
 
 
 ## Questions
