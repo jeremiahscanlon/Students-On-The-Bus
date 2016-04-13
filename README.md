@@ -1,5 +1,5 @@
 # Students-On-The-Bus
-node.js app using Javascript constructors, requires, and exports
+node.js app using javascript constructors, requires, and exports
 
 Basic javascript application run in command line using node.js that uses javascript constructors, requires, module.exports, and objects. Users can create students using by running a script that utilizes the npm *prompt* tool to capture input. The information captured is run through the student constructor and the resulting object is written to a text document using node's *fs* package. The user can then run the main app which first creates a bus object by running a contructor from a separate required file. The *main.js* then adds all the current students to the bus object and a function is triggered to output data from the objects based on a set of requirements.
  
